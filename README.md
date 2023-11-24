@@ -1,8 +1,8 @@
-### Hello there, I’m Praveen 👋
+### Hello there, I’m Praveen Software engineer, technical writer & open-source maintainer 👋
 
-I’m a front-end developer currently focused on building Web sites and application UIs with a strong focus on responsive design, accessibility, performance, and the latest in the area of front-end and crafting efficient UX & UI.
+Hello there, I’m Praveen Pal 👋🏻 a passionate full-stack web developer based in Bangalore with over 6 years of hands-on experience in the world of web development.
 
-- 🔭 I’m currently working on <a href="https://reactjs.org/">@react</a>
+- 🔭 I’m currently working on <a href="https://reactjs.org/">@NextJs</a>
 - 🌱 I’m currently learning <a href="https://nodejs.org/en/">@node</a>
 - 👯 I love contributing to the community by giving talks, writing blog posts, mentoring, etc. whenever I can.
 - 💬 Ask me about WPO, Javascript
