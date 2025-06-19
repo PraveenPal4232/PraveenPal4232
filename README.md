@@ -7,7 +7,7 @@ I’m a passionate **Full Stack Web Developer** based in Bangalore 🇮🇳 with
 - 👨‍💻 **Open Source Contributor** & Community Mentor → love sharing knowledge via blogs, talks, and tech meetups.
 - 🌱 Currently learning advanced **backend architectures** & cloud-native patterns (**AWS**, **Azure**).
 - 💬 Ask me about **Web Performance (WPO)**, **JavaScript**, **Next.js**, or building products from scratch.
-- 📫 Reach me here → [Website](https://praveenpal.in) | [LinkedIn](https://www.linkedin.com/in/praveenpal4232/) | [Twitter](https://twitter.com/PraveenPal4232) | [Instagram](https://www.instagram.com/praveenpal4232/)
+- 📫 Reach me here → [Website](https://www.praveenpal.dev/) | [LinkedIn](https://www.linkedin.com/in/praveenpal4232/) | [Twitter](https://twitter.com/PraveenPal4232) | [Instagram](https://www.instagram.com/praveenpal4232/)
 - ⚡ **Fun fact**: I occasionally write about ❤️, life & learning → [@ishqkepaigaam](https://www.instagram.com/ishqkepaigaam/)
 
 ---
