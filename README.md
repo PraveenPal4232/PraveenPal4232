@@ -1,6 +1,6 @@
 ### 👋 Hello, I’m Praveen — Full Stack Developer, Tech Writer & Community Builder
 
-I’m a passionate **Full Stack Web Developer** based in Bangalore 🇮🇳 with **5+ years** of experience building scalable, production-ready web applications.
+I’m a passionate **Full Stack Web Developer** based in Bangalore 🇮🇳 with **6+ years** of experience building scalable, production-ready web applications.
 
 - 🔭 Currently working with **React**, **Next.js**, **TypeScript**, and diving deeper into **Node.js** & **GraphQL** on the backend.
 - 🚀 Building SaaS products, eCommerce platforms & experimenting with IoT marketplaces.
