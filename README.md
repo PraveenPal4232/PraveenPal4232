@@ -21,7 +21,7 @@
 
 ---
 
-### What I've built
+### 📊 What I've built
 
 **Folkflair Fashion** · Founding engineer, Dec 2024 – present
 - Built the e-commerce platform from zero: **Next.js** storefront and checkout, **Node.js** services, **PostgreSQL**, CI/CD to **AWS** and **Vercel**.
